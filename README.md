@@ -1,4 +1,4 @@
-# Fashion-recommendation-chatbot
+# Online Shopping-recommendation-chatbot
 Project on developing a functional chatbot application for online shopping using OpenAI GPT 3.5. 
 
 Credits to @ProjectPro for their tutorials on the basics of LLMs.
